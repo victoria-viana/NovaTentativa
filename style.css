@@ -3,5 +3,8 @@
 	alpha
 }
 .imglogo{
-	max-width: 100px !important;
+	max-width: 120px !important;
+}
+h2 {
+	margin: auto;
 }
